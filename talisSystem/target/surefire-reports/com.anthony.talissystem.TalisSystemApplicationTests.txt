@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.anthony.talissystem.TalisSystemApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.711 s - in com.anthony.talissystem.TalisSystemApplicationTests
